@@ -1,2 +1,8 @@
 frontend/.gitignore
 backend/.gitignore
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
